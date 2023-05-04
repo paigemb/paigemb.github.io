@@ -1,0 +1,25 @@
+{
+    "interests": [
+        {
+            "title": "Technology",
+            "photo": "\/images\/tech.svg",
+            "backgroundColor": "rgb(237, 174, 192)",
+            "content": "Technology is the center of everything. I love keeping up with the latest developments and learning new ways I can connect my passions with tech.",
+            "delay": 0
+        },
+        {
+            "title": "Social Impact",
+            "photo": "\/images\/impact.svg",
+            "backgroundColor": "rgb(237, 174, 192)",
+            "content": "I am strongly motivated by meaningful work. Currently I am on the executive board for Impact Labs, an organization dedicated to uniting tech and social good.",
+            "delay": 1000
+        },
+        {
+            "title": "Film and Literature",
+            "photo": "\/images\/book.svg",
+            "backgroundColor": "rgb(237, 174, 192)",
+            "content": "I majored in English just so I could spend time with books and movies. My favorite book is 'The Fall' by Albert Camus, and my favorite movie is Jurassic Park!",
+            "delay": 2000
+        }
+    ]
+}

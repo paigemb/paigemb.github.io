@@ -1,0 +1,62 @@
+{
+  "education": [
+    {
+      "period": "May 2023 – Present",
+      "school": "Google",
+      "degree": "Google UX Design Certificate",
+      "description": ""
+    },
+    {
+      "period": "2018 – 2022",
+      "school": "Case Western Reserve University",
+      "degree": "Bachelor of Science (Computer Science)",
+      "description": ""
+    },
+    {
+      "period": "2018 – 2022",
+      "school": "Case Western Reserve University",
+      "degree": "Bachelor of Arts (English w/Film emphasis)",
+      "description": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Spotify Web App",
+      "period": "December 2022 - January 2023",
+      "tech": "JavaScript, React, Express, Node.js, Styled Components, Heroku, OAuth",
+      "description": "Developed and deployed a full-stack web application using Express and Node.js to connect with Spotify REST API with React as the frontend; implemented OAuth to securely fetch data and created features for dynamic display and edit of user data"
+  },
+  {
+    "name": "Literature Analysis",
+    "period": "August 2020 - September 2020",
+    "tech": "NumPY, Vader Sentiment, pandas, Natural Language Toolkit, Python, Matplotlib",
+    "description": "Created a machine learning program to run sentiment analysis on classic gothic literature novels to test for correlation between tone and plot diagrams"
+  }
+  ],
+  "career": [
+    {      
+      "period": "June 2022 - December 2022",
+      "company": "Octane Lending",
+      "title": "Software Engineer",
+      "description": "<p>Documented and converted legacy widget generation code from Javascript to simplified Typescript microservice<br/><br/> Collaborated with UI/UX designer to develop and deploy consumer-facing platform built with React to over 500 dealerships<br/><br/>Authored testing manuals on various projects to onboard other teams<br/><br/>Maintained Agile methodology and improved sprint ceremonies as scrum master<\/p>"
+    },
+    {      
+      "period": "June 2021 - June 2022",
+      "company": "Octane Lending",
+      "title": "Software Engineer Intern",
+      "description": "<p>Researched and designed a replacement to Google Tag Manager to simplify an existing code base, bypass ad-blockers, and increase overall efficiency using Django, Python, and Javascript<br/><br/>Deployed replacement to thousands of consumer-facing websites <br/><br/>Peer reviewed teammates code via PRs <br/><br/>Discovered bugs and implemented fixes on legacy widgets<\/p>"
+    },
+    {      
+      "period": "Aug 2020 - December 2020",
+      "company": "Comsat Architects",
+      "title": "Software Engineer Intern",
+      "description": "<p>Collaborated with the engineering and product teams to design and develop communication technology for CubeSats <br/><br/> Translated legacy Python code base into C++ <br/><br/>Implemented SARSA reinforcement algorithm for the cognitive engine component of the CubeSats<\/p>"
+    },
+    {      
+      "period": "May 2020 - Aug 2020",
+      "company": "Ohanga",
+      "title": "Software Engineer Intern",
+      "description": "<p>Designed and developed consumer-facing website using Angular<br/><br/> Implemented measures to ensure cross-platform consistency and usability of website on all screen sizes <br/><br/>Contributed in product-planning and early business discussions<\/p>"
+    }
+  ]
+}

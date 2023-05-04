@@ -1,0 +1,50 @@
+{
+  "username": "paige biggs",
+  "avatar": "../assets/images/paige.svg",
+  "objective": "<p>I am a new grad software engineer with fullstack experience in a variety of industries through internships and professional work. I am familiar with and greatly enjoy working for small companies and startups.<\/p> <p> I love learning new technologies and working with movie and book APIs in my spare time. <\/p> <p>Currently I'm learning more Haskell and Go and working on getting certified in UI/UX design!<\/p>",
+  "resumeUrl": "#",
+  "skills": [
+    {
+      "name": "Frameworks: React, Node.js, Express, React-Bootstrap, Jest, Django, Unity, Flask, jQuery, Storybook, Angular",
+      "color": "rgb(255, 209, 92)"
+    },
+    {
+      "name": "Languages: JavaScript, TypeScript, Python, Java, C#, C++, Haskell, Racket, Go",
+      "color": "rgb(108, 108, 229)"
+    },
+    {
+      "name": "Tools: Git, Jira, Confluence, AWS, Jenkins, Postman, Insomnia, Docker, MongoDB",
+      "color": "rgb(255, 76, 96)"
+    },
+    {
+      "name": "Database: SQL (Postgres)",
+      "color": "rgb(51, 105, 30)"
+    }
+  ],
+  "statistics": [
+    {
+      "number": 3,
+      "title": "Years experience",
+      "iconPrefix": "fas",
+      "iconName": "briefcase"
+    },
+    {
+      "number": 2,
+      "title": "Startups worked",
+      "iconPrefix": "fas",
+      "iconName": "terminal"
+    },
+    {
+      "number": 1,
+      "title": "Production break",
+      "iconPrefix": "fas",
+      "iconName": "heart-crack"
+    },
+    {
+      "number": 0,
+      "title": "Criminal Offenses",
+      "iconPrefix": "fas",
+      "iconName": "handcuffs"
+    }
+  ]
+}

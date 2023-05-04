@@ -1,0 +1,21 @@
+{
+  "firstName": "Paige",
+  "middleName": " ",
+  "lastName": "Biggs",
+  "avatar": "\/images\/computer.svg",
+  "titles": [
+    "Fullstack Developer",
+    "Learner",
+    "Movie Enthusiast"
+  ],
+  "socialNetworks": [
+    {
+      "link": "https://github.com/paigemb",
+      "iconName": "faGithub"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paigebiggs",
+      "iconName": "faLinkedin"
+    }
+  ]
+}
