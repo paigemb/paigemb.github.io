@@ -1,8 +1,8 @@
 {
-  "name": "react-resume-template",
+  "name": "react-resume",
   "version": "1.0.0",
-  "repository": "https://github.com/kien-dang/react-resume-template",
-  "author": "Kien Dang",
+  "homepage": "https://paigemb.github.io/paigemb.github.io",
+  "author": "Paige Biggs",
   "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
@@ -36,7 +36,9 @@
   "scripts": {
     "start": "webpack serve --open",
     "build": "webpack --config webpack.config.ts",
-    "dev": "webpack serve --static ./build --hot --port 3000 --open"
+    "dev": "webpack serve --static ./build --hot --port 3000 --open",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -77,6 +79,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-webpack-plugin": "^3.2.0",
     "fork-ts-checker-webpack-plugin": "^7.2.13",
+    "gh-pages": "^5.0.0",
     "html-webpack-plugin": "^5.5.0",
     "sass-loader": "^13.0.2",
     "style-loader": "^3.3.1",
