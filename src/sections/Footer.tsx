@@ -12,7 +12,6 @@ export class Footer extends React.Component {
     return(
       <StyledFooter className="footer">
         <Container>
-          <span className="copyright">© {(new Date()).getFullYear()} {about.username}.</span>
         </Container>
       </StyledFooter>
     )
